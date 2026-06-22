@@ -2,7 +2,7 @@
 ## Integrantes del equipo
 -Juan Cruz de la LAMA 
 ## Carrera 
-Tecnicaura en telecomunicaciones 
+Tecnicatura en telecomunicaciones 
 ## Materia 
 Programacion  
 ## Programa Utilizado 
